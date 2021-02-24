@@ -8,5 +8,5 @@
 
 **Bio:**
 
-Prolific generator of random numbers at @joinmassive. 6 apps w/ 1M users, incl.
+Generator of random numbers at @joinmassive. 6 apps w/ 1M users, incl.
 @adblockfast, @callblockapp. ⚙️ Code 👁‍🗨 Privacy 🏴 Decentralization
