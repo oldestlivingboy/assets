@@ -8,5 +8,5 @@
 
 **Bio:**
 
-Desktop, mobile, browser hacker. Making: @rocketshipapps, @adblockfast,
-@callblockapp. Previously: Disconnect, Google, DoubleClick.
+Prolific generator of random numbers at @joinmassive. 6 apps w/ 1M users, incl.
+@adblockfast, @callblockapp. ⚙️ Code 👁‍🗨 Privacy 🏴 Decentralization
