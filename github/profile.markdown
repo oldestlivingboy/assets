@@ -1,8 +1,8 @@
 **Bio:**
 
-Desktop, mobile, browser hacker.
+Prolific generator of random numbers.
 
-**Company:** @rocketshipapps
+**Company:** @joinmassive
 
 **Location:**
 
