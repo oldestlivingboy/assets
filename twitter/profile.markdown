@@ -4,8 +4,8 @@
 
 **Bio:**
 
-Desktop, mobile, browser hacker. Making: @rocketshipapps, @adblockfast, @callblockapp. Previously:
-Disconnect, Google, DoubleClick.
+Desktop, mobile, browser hacker. Making: @rocketshipapps, @adblockfast,
+@callblockapp. Previously: Disconnect, Google, DoubleClick.
 
 **Location:**
 
