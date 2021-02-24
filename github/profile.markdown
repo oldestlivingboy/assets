@@ -1,8 +1,13 @@
 **Bio:**
 
-Desktop, mobile, browser hacker. Making: @rocketshipapps. Previously:
-Disconnect, Google.
+Desktop, mobile, browser hacker.
+
+**Company:** @rocketshipapps
+
+**Location:**
 
 **Email address:** oldestlivingboy@gmail.com
 
 **Website:** https://oldestlivingboy.com/
+
+**Twitter username:** oldestlivingboy
