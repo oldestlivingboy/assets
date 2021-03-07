@@ -8,11 +8,11 @@ cryptocurrency!), and preserving personal privacy and security.
 
 Here’s what people say about Pirate Club:
 
-“Every generation welcomes the pirates from the last.”  
-– Lawrence Lessig
+“Life’s pretty good … I’m a pirate, after all.”  
+– Johnny Depp
 
 “It’s better to be a pirate than join the navy.”  
 – Steve Jobs
 
-“This pirate trend … is going to be the new look.”  
-– Cosmo Kramer
+“This pirate trend … is gonna be the new look.”  
+– Kramer
