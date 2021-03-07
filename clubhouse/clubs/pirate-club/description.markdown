@@ -6,7 +6,7 @@ cryptocurrency!), and preserving personal privacy and security.
 
 🐟 🐠 🐡
 
-Here’s what people are saying:
+Here’s what people say about Pirate Club:
 
 “Every generation welcomes the pirates from the last.”  
 – Lawrence Lessig
@@ -14,5 +14,5 @@ Here’s what people are saying:
 “It’s better to be a pirate than join the navy.”  
 – Steve Jobs
 
-“This pirate trend [is] the new look for the 90s.”  
+“This pirate trend … is going to be the new look.”  
 – Cosmo Kramer
