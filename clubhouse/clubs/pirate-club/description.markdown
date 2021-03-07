@@ -8,11 +8,11 @@ cryptocurrency!), and preserving personal privacy and security.
 
 Here’s what people say about Pirate Club:
 
-“Life’s pretty good … I’m a pirate, after all.”  
-– Johnny Depp
+“Bruisers and pirates are of better promise than talkers and clerks.”  
+– Ralph Waldo Emerson
 
 “It’s better to be a pirate than join the navy.”  
 – Steve Jobs
 
-“This pirate trend … is gonna be the new look.”  
+“It’s the right time … to be all puffy and devil-may-care.”  
 – Kramer
