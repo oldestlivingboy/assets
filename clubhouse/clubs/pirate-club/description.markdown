@@ -14,5 +14,5 @@ Here’s what people say about Pirate Club:
 “It’s better to be a pirate than join the navy.”  
 – Steve Jobs
 
-“It’s [time] to be all puffy and devil-may-care.”  
-– Kramer
+“I don’t want to be a pirate!”  
+– Jerry Seinfeld
