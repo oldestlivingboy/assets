@@ -1,18 +1,18 @@
 # Description
 
 Pirate Club hosts conversations about re-decentralizing the internet (not just
-with blockchains!), experimenting with online business models (not just
-tokenomics!), and preserving personal privacy and security.
+blockchains!), experimenting with online business models (not just
+cryptocurrency!), and preserving personal privacy and security.
 
 🐟 🐠 🐡
 
-What people are saying about Pirate Club:
+Here’s what people are saying:
 
-“If we … were good, God would permit us to be pirates.”  
-– Mark Twain
+“Every generation welcomes the pirates from the last.”  
+– Lawrence Lessig
 
 “It’s better to be a pirate than join the navy.”  
 – Steve Jobs
 
-“I think people want to look like pirates.”  
+“This pirate trend [is] the new look for the 90s.”  
 – Cosmo Kramer
