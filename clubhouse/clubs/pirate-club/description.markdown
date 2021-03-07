@@ -8,11 +8,11 @@ cryptocurrency!), and preserving personal privacy and security.
 
 Here’s what people say about Pirate Club:
 
-“Bruisers and pirates are of better promise than talkers and clerks.”  
+“Pirates are of better promise than talkers.”  
 – Ralph Waldo Emerson
 
 “It’s better to be a pirate than join the navy.”  
 – Steve Jobs
 
-“It’s the right time … to be all puffy and devil-may-care.”  
+“It’s [time] to be all puffy and devil-may-care.”  
 – Kramer
