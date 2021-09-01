@@ -1,7 +1,5 @@
 # Profile
 
-**Photo:**
-
 ![Photo](photo.png)
 
 **Nickname:** Brian
