@@ -4,7 +4,7 @@ I’m one of the founders of [Massive](https://joinmassive.com), which is develo
 ads and paywalls for making money and paying online and was motivated by my frustrations as an app
 developer (and internet user) over most of the last decade.
 
-In that time, I created 7 indie apps – for iOS, Android, Chrome, Firefox, Safari, and Opera –
+In that time, I created 7 independent apps – for iOS, Android, Chrome, Firefox, Safari, and Opera –
 that’ve topped 1,000,000 active users and another 14 that’ve topped 10,000. Altogether, my apps have
 been installed more than 20,000,000 times, been rated an average of more than 4.5 out of 5 stars by
 users, and been featured more than 1,000 times by the press and by platform vendors – including [in
