@@ -1,12 +1,13 @@
 # Bio
 
-I develop and market popular, highly rated products.
+I’m a co-founder of [Massive](https://joinmassive.com), which is developing an alternative to ads
+and paywalls for making money and paying online and was motivated by my frustrations as an indie
+developer (and internet user) over most of the last decade.
 
-In the last 7 years, I’ve created 7 indie apps – for iOS, Android, Chrome, Firefox, Safari, and
-Opera – that’ve topped 1,000,000 active users and another 14 that’ve topped 10,000. Altogether, my
-apps have been installed more than 20,000,000 times, been rated an average of more than 4.5 out of 5
-stars by users, and been featured more than 1,000 times by the press and by platform vendors –
-including [in
+In that time, I created 7 apps – for iOS, Android, Chrome, Firefox, Safari, and Opera – that’ve
+topped 1,000,000 active users and another 14 that’ve topped 10,000. Altogether, my apps have been
+installed more than 20,000,000 times, been rated an average of more than 4.5 out of 5 stars by
+users, and been featured more than 1,000 times by the press and by platform vendors – including [in
 Forbes](https://www.forbes.com/sites/kashmirhill/2013/07/24/dont-want-trackers-watching-your-web-and-smartphone-activity-this-start-ups-for-you/#),
 [on 60 Minutes](https://www.cbsnews.com/news/the-data-brokers-selling-your-personal-information/),
 and [by Apple](https://itunes.apple.com/app/werd-derp/id1152646495),
