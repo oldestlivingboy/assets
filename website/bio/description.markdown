@@ -30,11 +30,11 @@ Webbys](https://www.webbyawards.com/winners/2014/mobile-apps/handheld-devices/ex
 
 I’ve also spoken about [privacy and security at
 Defcon](https://www.youtube.com/watch?v=BK_E3Bjpe0E), about [app development at Google
-I/O](https://www.youtube.com/watch?v=iVSR6gufMXI) and [3 Developer
+I/O](https://www.youtube.com/watch?v=iVSR6gufMXI) and [at 3 Developer
 Days](https://www.youtube.com/watch?v=sO1FujZDT0s), and about [Disconnect at
 Launch](https://www.youtube.com/watch?v=oLA-LxV4OT0) and my research has been published [by The Wall
 Street Journal](https://www.wsj.com/articles/SB10001424052748704281504576329441432995616) and
-[CNN](http://www.cnn.com/2011/TECH/web/06/21/ad.tracking/index.html).
+[by CNN](http://www.cnn.com/2011/TECH/web/06/21/ad.tracking/index.html).
 
 Previously, I was a Google engineer – I worked on AdWords, AdSense, Checkout, Wave, then Chrome and
 helped start the company’s sales-engineering and developer-relations teams.
