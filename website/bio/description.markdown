@@ -24,9 +24,9 @@ the [best privacy and security
 innovation](https://www.sxsw.com/wp-content/uploads/2016/06/2015-SXSW-Interactive-Innovation-Awards-Winners-Release_final3.pdf)
 and a [finalist for the best privacy and security innovation at South by
 Southwest](https://www.sxsw.com/wp-content/uploads/2016/05/sxsw_interactive_innovation_awards_finalists_final.pdf),
-the [best technology at Launch](https://en.wikipedia.org/wiki/LAUNCH_Conference), and an [honoree
+the [best technology at Launch](https://en.wikipedia.org/w/index.php?oldid=708343289&title=LAUNCH_Conference), and an [honoree
 for the best experimental mobile site or app at The
-Webbys](https://www.webbyawards.com/winners/2014/mobile-apps/handheld-devices/experimental-innovation/).
+Webbys](https://web.archive.org/web/20190410100830/https://www.webbyawards.com/winners/2014/mobile-apps/handheld-devices/experimental-innovation/).
 
 I’ve also spoken about [privacy and security at
 Defcon](https://www.youtube.com/watch?v=BK_E3Bjpe0E), about [app development at Google
