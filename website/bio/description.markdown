@@ -1,8 +1,8 @@
 # Bio
 
-I’m one of the founders of [Massive](https://joinmassive.com), which is developing an alternative to
-ads and paywalls for making money and paying online and was motivated by my frustrations as an app
-developer (and internet user) over most of the last decade.
+I’m one of the founders of [Massive](https://joinmassive.com/), which is developing an alternative
+to ads and paywalls for making money and paying online and was motivated by my frustrations as an
+app developer (and internet user) over most of the last decade.
 
 In that time, I created 7 independent apps – for iOS, Android, Chrome, Firefox, Safari, and Opera –
 that’ve topped 1,000,000 active users and another 14 that’ve topped 10,000. Altogether, my apps have
@@ -11,10 +11,10 @@ users, and been featured more than 1,000 times by the press and by platform vend
 Forbes](https://www.forbes.com/sites/kashmirhill/2013/07/24/dont-want-trackers-watching-your-web-and-smartphone-activity-this-start-ups-for-you/#),
 [on 60 Minutes](https://www.cbsnews.com/news/the-data-brokers-selling-your-personal-information/),
 and [by Apple](https://itunes.apple.com/app/werd-derp/id1152646495),
-[Google](https://play.google.com/store/apps/details?id=com.rocketshipapps.adblockfast),
-[Mozilla](https://blog.mozilla.org/addons/2014/02/01/february-featured-add-ons/), and
-[Opera](https://dev.opera.com/articles/extension-developer-interviews-disconnect/). I’ve had, among
-them, an app named one of the [100 best innovations by Popular
+[by Google](https://play.google.com/store/apps/details?id=com.rocketshipapps.adblockfast),
+[by Mozilla](https://blog.mozilla.org/addons/2014/02/01/february-featured-add-ons/), and
+[by Opera](https://dev.opera.com/articles/extension-developer-interviews-disconnect/). I’ve had,
+among them, an app named one of the [100 best innovations by Popular
 Science](https://web.archive.org/web/20140924121407/http://www.popsci.com/bown/2013/category/software),
 one of the [20 best Chrome
 extensions](https://lifehacker.com/lifehacker-pack-for-chrome-our-list-of-essential-chrom-880863393)
