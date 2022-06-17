@@ -1,16 +1,16 @@
-# Page Settings
+# Page settings
 
 ## General
 
-**Page Title:** List
+**Page title:** List
 
-**Navigation Title:** List
+**Navigation title:** List
 
-**URL Slug:** articles-list
+**URL slug:** articles-list
 
 ## Media
 
-**Featured Image:** ![Blue](blue.png)
+**Featured image:** ![Blue](blue.png)
 
 ## Content
 

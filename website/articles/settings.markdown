@@ -1,18 +1,18 @@
-# Index Settings
+# Index settings
 
 ## General
 
-**Page Title:** Articles
+**Page title:** Articles
 
-**Navigation Title:** Articles
+**Navigation title:** Articles
 
-**URL Slug:** articles
+**URL slug:** articles
 
-**Page Description:** Articles by and support answers from Brian Kennish
+**Page description:** Articles by and support answers from Brian Kennish
 
 ## Advanced
 
-**Page Header Code Injection:**
+**Page header code injection:**
 
     <style type="text/css">
     .Index-page .sqs-layout .sqs-col-12 > .sqs-block:not(.float):not(.sqs-float-left):not(.sqs-float-right):not(.sqs-block-gallery):not(.sqs-block-image):not(.sqs-block-video):not(.sqs-block-map):not(.sqs-block-calendar):not(.sqs-block-menu):not(.sqs-block-tourdates):not(.sqs-block-summary-v2):not(.sqs-block-archive):not(.sqs-block-instagram) {
