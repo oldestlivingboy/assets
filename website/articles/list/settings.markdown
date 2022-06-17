@@ -10,9 +10,7 @@
 
 ## Media
 
-**Featured Image:**
-
-![Blue](blue.png)
+**Featured Image:** ![Blue](blue.png)
 
 ## Content
 
