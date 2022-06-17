@@ -16,6 +16,8 @@
 
 **Text (Heading 2):** Articles & answers
 
+**Spacer**
+
 **Markdown:**
 
 <h3 id="massive">Massive blog</h3>
@@ -23,6 +25,8 @@
 **Text (Normal):**
 
 [Reimagining the internet, without ads](https://blog.joinmassive.com/reimagining-the-internet-without-ads-875395fbcde5)
+
+**Spacer**
 
 **Markdown:**
 
@@ -41,6 +45,8 @@
 [Adblock Fast 2.0 for Android](https://log.rocketshipapps.com/adblock-fast-2-0-for-android-a7a7945ba649)  
 <a href="http://blog.10x.co/hello-world">Hello world<em>!</em></a> (non-secure)  
 [10x is taking off](http://blog.10x.co/10x-is-taking-off) (non-secure)
+
+**Spacer**
 
 **Markdown:**
 
@@ -76,6 +82,8 @@
 [“disconnect.me” DDoS’d](https://web.archive.org/web/20140420031556/https://blog.disconnect.me/disconnect-me-ddosd)
 (archived)
 
+**Spacer**
+
 **Markdown:**
 
 <h3 id="chromium">Chromium blog</h3>
@@ -88,6 +96,8 @@
 [HTML5 world tour](https://web.archive.org/web/20160805094628/https://blog.chromium.org/2010/09/html5-world-tour.html)
 (archived)
 
+**Spacer**
+
 **Markdown:**
 
 <h3 id="google-wave">Google Wave developer blog</h3>
@@ -96,6 +106,8 @@
 
 [Google Wave API office hours](https://googlewavedev.blogspot.com/2009/06/google-wave-api-office-hours.html)  
 [Google Wave community events](https://googlewavedev.blogspot.com/2009/07/google-wave-community-events.html)
+
+**Spacer**
 
 **Markdown:**
 
