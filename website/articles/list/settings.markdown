@@ -8,8 +8,6 @@
 
 **URL Slug:** articles-list
 
-**Enable Page:** [Checked]
-
 ## Media
 
 **Featured Image:**

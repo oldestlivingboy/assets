@@ -8,8 +8,6 @@
 
 **URL Slug:** articles
 
-**Enable Page:** [Checked]
-
 **Page Description:** Articles by and support answers from Brian Kennish
 
 ## Advanced
