@@ -54,8 +54,8 @@
 
 **Text (Normal):**
 
-[Developing Google Chrome extensions (Moscow)](https://www.youtube.com/watch?v=sO1FujZDT0s)  
 [Developing Google Chrome extensions (Prague)](https://www.youtube.com/watch?v=-N_EpuoZmaw)  
+[Developing Google Chrome extensions (Moscow)](https://www.youtube.com/watch?v=sO1FujZDT0s)  
 [Advanced Google Chrome extensions with HTML5](https://www.youtube.com/watch?v=la4sIw-G4Kc)
 
 **Spacer**
