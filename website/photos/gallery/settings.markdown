@@ -106,7 +106,7 @@ Rocketship
 
 **Text (Heading 3):**
 
-[Wall Street Journal](https://web.archive.org/web/20140717022836/https://datatransparency.wsj.com/)
+Wall Street Journal
 
 **Text (Heading 3):**
 
