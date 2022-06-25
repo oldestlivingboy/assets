@@ -140,7 +140,7 @@
 
 **Text (Normal):**
 
-[Popular Science Best of What’s New](https://web.archive.org/web/20140924121407/http://www.popsci.com/bown/2013/category/software)
+[Popular Science Best of What’s New](https://web.archive.org/web/20140924121407/https://www.popsci.com/bown/2013/category/software)
 (archived)  
 [Lifehacker top-20 Chrome extension](https://lifehacker.com/lifehacker-pack-for-chrome-our-list-of-essential-chrom-880863393)  
 [Lifehacker top-20 Firefox add-on](https://lifehacker.com/lifehacker-pack-for-firefox-our-list-of-the-essential-896766794)  
