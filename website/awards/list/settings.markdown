@@ -34,7 +34,7 @@
 
 **Markdown:**
 
-<p><a target="_blank" href="https://www.sxsw.com/wp-content/uploads/2016/05/sxsw_interactive_innovation_awards_finalists_final.pdf">SXSW Interactive Innovation Awards finalist</a></p><p><a target="_blank" href="https://twitter.com/GalaxyAppsStore/status/1056727439043387392">Samsung featured app</a></p><p>Google featured app</p><p>Opera featured extension</p><p class="overall-top-1000">iPhone top-1,000 free app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">iPhone top-50 free utility app<sup> <a href="#source">1</a></sup></p><p class="category-top-1000">iPhone top-500 grossing utility app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">iPad top-100 free utility app<sup> <a href="#source">1</a></sup></p><p class="category-top-1000">iPad top-300 grossing utility app<sup> <a href="#source">1</a></sup></p><p>Galaxy Store #1 app</p><p class="overall-top-1000">Play Store top-1,000 free app<sup> <a href="#source">1</a></sup></p><p class="overall-top-1000">Play Store top-200 free, new app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">Play Store top-40 free productivity app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">Play Store #4 free, new productivity app<sup> <a href="#source">1</a></sup></p>
+<p><a href="https://www.sxsw.com/wp-content/uploads/2016/05/sxsw_interactive_innovation_awards_finalists_final.pdf" target="_blank">SXSW Interactive Innovation Awards finalist</a></p><p><a href="https://twitter.com/GalaxyAppsStore/status/1056727439043387392" target="_blank">Samsung featured app</a></p><p>Google featured app</p><p>Opera featured extension</p><p class="overall-top-1000">iPhone top-1,000 free app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">iPhone top-50 free utility app<sup> <a href="#source">1</a></sup></p><p class="category-top-1000">iPhone top-500 grossing utility app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">iPad top-100 free utility app<sup> <a href="#source">1</a></sup></p><p class="category-top-1000">iPad top-300 grossing utility app<sup> <a href="#source">1</a></sup></p><p>Galaxy Store #1 app</p><p class="overall-top-1000">Play Store top-1,000 free app<sup> <a href="#source">1</a></sup></p><p class="overall-top-1000">Play Store top-200 free, new app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">Play Store top-40 free productivity app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">Play Store #4 free, new productivity app<sup> <a href="#source">1</a></sup></p>
 
 **Spacer**
 
@@ -44,7 +44,7 @@
 
 **Markdown:**
 
-<p><a target="_blank" href="https://www.producthunt.com/products/callblock">Product Hunt top-10 product of the day</a></p><p class="overall-top-1000">iPhone top-1,000 free app<sup> <a href="#source">1</a></sup></p><p class="overall-top-1000">iPhone top-1,000 grossing app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">iPhone top-40 free productivity app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">iPhone top-20 grossing productivity app<sup> <a href="#source">1</a></sup></p>
+<p><a href="https://www.producthunt.com/products/callblock" target="_blank">Product Hunt top-10 product of the day</a></p><p class="overall-top-1000">iPhone top-1,000 free app<sup> <a href="#source">1</a></sup></p><p class="overall-top-1000">iPhone top-1,000 grossing app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">iPhone top-40 free productivity app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">iPhone top-20 grossing productivity app<sup> <a href="#source">1</a></sup></p>
 
 **Spacer**
 
@@ -64,7 +64,7 @@
 
 **Markdown:**
 
-<p><a target="_blank" href="https://www.producthunt.com/products/image-search-keyboard">Product Hunt #4 product of the day</a></p><p class="category-top-1000">iPhone top-1,000 free utility app<sup> <a href="#source">1</a></sup></p>
+<p><a href="https://www.producthunt.com/products/image-search-keyboard" target="_blank">Product Hunt #4 product of the day</a></p><p class="category-top-1000">iPhone top-1,000 free utility app<sup> <a href="#source">1</a></sup></p>
 
 **Spacer**
 
@@ -131,7 +131,7 @@
 
 **Markdown:**
 
-<p><a target="_blank" href="https://www.pcmag.com/reviews/disconnect-search">PCMag Editors’ Choice</a></p><p>Google featured app</p><p>Opera featured extension</p><p class="category-top-1000">Android top-300 free tool app<sup> <a href="#source">1</a></sup></p><p class="category-top-1000">Android top-500 grossing tool app<sup> <a href="#source">1</a></sup></p>
+<p><a href="https://www.pcmag.com/reviews/disconnect-search" target="_blank">PCMag Editors’ Choice</a></p><p>Google featured app</p><p>Opera featured extension</p><p class="category-top-1000">Android top-300 free tool app<sup> <a href="#source">1</a></sup></p><p class="category-top-1000">Android top-500 grossing tool app<sup> <a href="#source">1</a></sup></p>
 
 **Spacer**
 
@@ -141,10 +141,10 @@
 
 **Markdown:**
 
-<p><a target="_blank" href="https://web.archive.org/web/20190410100830/https://www.webbyawards.com/winners/2014/mobile-apps/handheld-devices/experimental-innovation/">Webby Award honoree, Experimental &amp; Innovation</a> (archived)</p><p class="category-top-1000">iPhone top-200 free education app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">iPhone top-30 grossing education app<sup> <a href="#source">1</a></sup></p><p class="category-top-1000">iPad top-300 free education app<sup> <a href="#source">1</a></sup></p>
+<p><a href="https://web.archive.org/web/20190410100830/https://www.webbyawards.com/winners/2014/mobile-apps/handheld-devices/experimental-innovation/" target="_blank">Webby Award honoree, Experimental &amp; Innovation</a> (archived)</p><p class="category-top-1000">iPhone top-200 free education app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">iPhone top-30 grossing education app<sup> <a href="#source">1</a></sup></p><p class="category-top-1000">iPad top-300 free education app<sup> <a href="#source">1</a></sup></p>
 
 **Spacer**
 
 **Markdown:**
 
-<h3 id="notes">Notes:</h3><p id="source">1. App ranking data is for US &amp; from <a target="_blank" href="https://sensortower.com/">Sensor Tower</a></p>
+<h3 id="notes">Notes:</h3><p id="source">1. App ranking data is for US &amp; from <a href="https://sensortower.com/" target="_blank">Sensor Tower</a></p>
