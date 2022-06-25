@@ -44,7 +44,7 @@
 
 **Markdown:**
 
-<p><a target="_blank" href="https://www.producthunt.com/posts/callblock">Product Hunt top-10 product of the day</a></p><p class="overall-top-1000">iPhone top-1,000 free app<sup> <a href="#source">1</a></sup></p><p class="overall-top-1000">iPhone top-1,000 grossing app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">iPhone top-40 free productivity app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">iPhone top-20 grossing productivity app<sup> <a href="#source">1</a></sup></p>
+<p><a target="_blank" href="https://www.producthunt.com/products/callblock">Product Hunt top-10 product of the day</a></p><p class="overall-top-1000">iPhone top-1,000 free app<sup> <a href="#source">1</a></sup></p><p class="overall-top-1000">iPhone top-1,000 grossing app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">iPhone top-40 free productivity app<sup> <a href="#source">1</a></sup></p><p class="category-top-100">iPhone top-20 grossing productivity app<sup> <a href="#source">1</a></sup></p>
 
 **Spacer**
 
@@ -54,7 +54,7 @@
 
 **Text (Normal):**
 
-[Product Hunt #1 product of the day](https://www.producthunt.com/posts/top)
+[Product Hunt #1 product of the day](https://www.producthunt.com/products/top)
 
 **Spacer**
 
@@ -64,7 +64,7 @@
 
 **Markdown:**
 
-<p><a target="_blank" href="https://www.producthunt.com/posts/image-search-keyboard">Product Hunt #4 product of the day</a></p><p class="category-top-1000">iPhone top-1,000 free utility app<sup> <a href="#source">1</a></sup></p>
+<p><a target="_blank" href="https://www.producthunt.com/products/image-search-keyboard">Product Hunt #4 product of the day</a></p><p class="category-top-1000">iPhone top-1,000 free utility app<sup> <a href="#source">1</a></sup></p>
 
 **Spacer**
 
