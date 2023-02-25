@@ -218,5 +218,5 @@ href="#source">1</a></sup></p>
 **Markdown:**
 
 <h3 id="notes">Notes:</h3>
-<p id="source">1. App ranking data is for US and from <a href="https://sensortower.com/"
+<p id="source">1. App ranking data is for US &amp; from <a href="https://sensortower.com/"
 target="_blank">Sensor Tower</a></p>
