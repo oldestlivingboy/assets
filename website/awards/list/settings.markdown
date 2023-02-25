@@ -24,7 +24,7 @@
 
 **Text (Normal):**
 
-[Webby Award honoree, Experimental & Innovation](https://winners.webbyawards.com/2022/apps-and-software/mobile-ott-app-features/experimental-innovation/214630/massive)
+[Webby Award honoree, Experimental and Innovation](https://winners.webbyawards.com/2022/apps-and-software/mobile-ott-app-features/experimental-innovation/214630/massive)
 
 **Spacer**
 
@@ -107,10 +107,10 @@
 **Markdown:**
 
 <p>Apple featured app</p>
-<p class="category-top-1000">iPhone top-300 paid photo &amp; video app<sup> <a href="#source">1</a></sup></p>
-<p class="category-top-1000">iPhone top-1,000 grossing photo &amp; video app<sup> <a href="#source">1</a></sup></p>
-<p class="category-top-100">iPad top-100 paid photo &amp; video app<sup> <a href="#source">1</a></sup></p>
-<p class="category-top-1000">iPad top-400 grossing photo &amp; video app<sup> <a href="#source">1</a></sup></p>
+<p class="category-top-1000">iPhone top-300 paid photo and video app<sup> <a href="#source">1</a></sup></p>
+<p class="category-top-1000">iPhone top-1,000 grossing photo and video app<sup> <a href="#source">1</a></sup></p>
+<p class="category-top-100">iPad top-100 paid photo and video app<sup> <a href="#source">1</a></sup></p>
+<p class="category-top-1000">iPad top-400 grossing photo and video app<sup> <a href="#source">1</a></sup></p>
 
 **Markdown:**
 
@@ -173,7 +173,7 @@
 
 **Markdown:**
 
-<p><a href="https://web.archive.org/web/20190410100830/https://www.webbyawards.com/winners/2014/mobile-apps/handheld-devices/experimental-innovation/" target="_blank">Webby Award honoree, Experimental &amp; Innovation</a> (archived)</p>
+<p><a href="https://web.archive.org/web/20190410100830/https://www.webbyawards.com/winners/2014/mobile-apps/handheld-devices/experimental-innovation/" target="_blank">Webby Award honoree, Experimental and Innovation</a> (archived)</p>
 <p class="category-top-1000">iPhone top-200 free education app<sup> <a href="#source">1</a></sup></p>
 <p class="category-top-100">iPhone top-30 grossing education app<sup> <a href="#source">1</a></sup></p>
 <p class="category-top-1000">iPad top-300 free education app<sup> <a href="#source">1</a></sup></p>
@@ -183,4 +183,4 @@
 **Markdown:**
 
 <h3 id="notes">Notes:</h3>
-<p id="source">1. App ranking data is for US &amp; from <a href="https://sensortower.com/" target="_blank">Sensor Tower</a></p>
+<p id="source">1. App ranking data is for US and from <a href="https://sensortower.com/" target="_blank">Sensor Tower</a></p>
