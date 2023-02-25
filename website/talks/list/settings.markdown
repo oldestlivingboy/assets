@@ -54,8 +54,10 @@
 
 **Text (Normal):**
 
-[Developing Google Chrome extensions (Prague)](https://www.youtube.com/watch?v=-N_EpuoZmaw)  
-[Developing Google Chrome extensions (Moscow)](https://www.youtube.com/watch?v=sO1FujZDT0s)  
+[Developing Google Chrome extensions (Prague)](https://www.youtube.com/watch?v=-N_EpuoZmaw)
+
+[Developing Google Chrome extensions (Moscow)](https://www.youtube.com/watch?v=sO1FujZDT0s)
+
 [Advanced Google Chrome extensions with HTML5](https://www.youtube.com/watch?v=la4sIw-G4Kc)
 
 **Spacer**
@@ -67,7 +69,8 @@
 **Text (Normal):**
 
 [Understanding and extending Google Wave](https://web.archive.org/web/20160605172143/https://www.youtube.com/watch?v=_jw7m4N6klM)
-(archived)  
+(archived)
+
 [Google Chrome developer tools](https://www.youtube.com/watch?v=MGu6zBecdgg&list=PLBF1418BE97789F65)
 
 **Spacer**
@@ -151,8 +154,10 @@
 
 **Text (Normal):**
 
-[Om Malik, Brian Kennish, and Lon Harris (episode 137)](https://thisweekinstartups.com/news-roundtable-panel-on-this-week-in-startups-137/)  
-[Steve Blank and Brian Kennish (episode 163)](https://thisweekinstartups.com/news-roundtable-with-steve-blank-and-brian-kennish-on-this-week-in-startups-163/)  
+[Om Malik, Brian Kennish, and Lon Harris (episode 137)](https://thisweekinstartups.com/news-roundtable-panel-on-this-week-in-startups-137/)
+
+[Steve Blank and Brian Kennish (episode 163)](https://thisweekinstartups.com/news-roundtable-with-steve-blank-and-brian-kennish-on-this-week-in-startups-163/)
+
 [Jay Levy and Brian Kennish (episode 290)](https://thisweekinstartups.com/news-panel-with-jay-levy-and-brian-kennish-twist-290/)
 
 **Spacer**
