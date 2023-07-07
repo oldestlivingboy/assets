@@ -111,9 +111,14 @@ is building the future of monetization for developers</a>, Xoogler.co</p>
 href="https://medium.com/kadena-io/kadena-grant-recipient-massive-to-launch-nopool-a-decentralized-carbon-neutral-proof-of-work-1c042c62928f">Kadena
 grant-recipient Massive to launch NoPool, a decentralized carbon-neutral proof-of-work mining
 pool</a>, Kadena</p>
+<p><a target="_blank" href="https://twitter.com/kadena_io/status/1628439634408804353">Kadena
+Campfire</a>, Kadena</p>
 <p><a target="_blank"
 href="https://medium.com/kadena-io/project-spotlight-nopool-powered-by-massive-2f8d220bd34">Project
 spotlight: NoPool, powered by Massive</a>, Kadena</p>
+<p><a target="_blank"
+href="https://medium.com/kadena-io/kadena-2023-q1-newsletter-879325b93905">2023 Q1 newsletter</a>,
+Kadena</p>
 
 **Spacer**
 
@@ -123,8 +128,8 @@ spotlight: NoPool, powered by Massive</a>, Kadena</p>
 
 **Text (Normal):**
 
-[Convocan a hackers locales para financiar sus proyectos](https://www.ultimahora.com/convocan-hackers-locales-financiar-sus-proyectos-n913963.html)
-(Spanish), Última Hora
+[Convocan a hackers locales para financiar sus proyectos](https://web.archive.org/web/20230327232137/https://www.ultimahora.com/convocan-hackers-locales-financiar-sus-proyectos-n913963.html)
+(Spanish), Última Hora (archived)
 
 [Site of the day](https://www.bestcss.in/user/detail/Rocketship-3165), BestCSS
 
