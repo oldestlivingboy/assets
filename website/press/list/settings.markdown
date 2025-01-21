@@ -119,6 +119,19 @@ spotlight: NoPool, powered by Massive</a>, Kadena</p>
 <p><a target="_blank"
 href="https://medium.com/kadena-io/kadena-2023-q1-newsletter-879325b93905">2023 Q1 newsletter</a>,
 Kadena</p>
+<p><a target="_blank"
+href="https://www.linkedin.com/posts/nodle_nodle-massive-depin-activity-7207092178076983296-YyKU/">Nodle
+is entering a strategic partnership with Massive</a>, Nodle</p>
+<p><a target="_blank"
+href="https://gritdaily.com/nodle-partners-with-massive-nodle-users-ai-economy/">Nodle partners with
+Massive to [enable] users to participate in the AI economy</a>, Grit Daily</p>
+<p><a target="_blank" href="https://gritdaily.com/residential-proxy-providers-to-watch-in-2025/">5
+residential proxy providers to watch in 2025</a>, Grit Daily</p>
+<p><a target="_blank"
+href="https://substack.thewebscraping.club/p/proxy-pricing-playbook-september">Proxy Pricing
+Playbook – September 2024</a>, The Web Scraping Club</p>
+<p><a target="_blank" href="https://proxyway.com/news/new-review-massive">New review: Massive</a>,
+Proxyway</p>
 
 **Spacer**
 
