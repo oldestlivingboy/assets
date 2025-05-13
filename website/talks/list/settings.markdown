@@ -109,6 +109,16 @@
 
 **Markdown:**
 
+<h3 id="prague-crawl">Prague Crawl</h3>
+
+**Text (Normal):**
+
+[How to survive an AI apocalypse (and win at screenscraping)](https://www.youtube.com/watch?v=uXAmmkQd430)
+
+**Spacer**
+
+**Markdown:**
+
 <h3 id="scu">Santa Clara University</h3>
 
 **Text (Normal):**
