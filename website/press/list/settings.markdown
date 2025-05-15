@@ -132,6 +132,14 @@ href="https://substack.thewebscraping.club/p/proxy-pricing-playbook-september">P
 Playbook – September 2024</a>, The Web Scraping Club</p>
 <p><a target="_blank" href="https://proxyway.com/news/new-review-massive">New review: Massive</a>,
 Proxyway</p>
+<p><a target="_blank"
+href="https://smartechdaily.com/top-6-proxies-for-scraping-amazon-in-2025/">Top 6 proxies for
+scraping Amazon in 2025</a>, Smartech Daily</p>
+<p><a target="_blank" href="https://proxyway.com/research/proxy-market-research-2025">Proxy Market
+Research 2025</a>, Proxyway</p>
+<p><a target="_blank"
+href="https://startupkitchen.community/ai-startups-prague-crawl-attendees-share-their-views/">AI and
+startups: Prague Crawl attendees share their views</a>, Startup Kitchen</p>
 
 **Spacer**
 
