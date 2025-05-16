@@ -50,7 +50,7 @@
 
 **Image (Inline):**
 
-![Prague Crawl](2025_04_23_Prague-Crawl-069.jpg)
+![Prague Crawl](2025_04_23_Prague-Crawl-066.jpg)
 
 **Image (Inline):**
 
@@ -62,7 +62,7 @@ CTIA
 
 **Text (Heading 3):**
 
-[Prague Crawl](https://photos.google.com/share/AF1QipNi5c91mBmY8C7vyS-foE2_c267kUWkJAsjNN38X9X8CnL-JoH93yuVcSH1ltyLJA/photo/AF1QipPhzjsDAQp0Jkh3OUV_IlPqqpCnVGZlCkWGTalg?key=SDdUV3hhaWFYTTJhWVNmcExMQThpRUY5NXN1ZFZR)
+[Prague Crawl](https://photos.google.com/share/AF1QipNi5c91mBmY8C7vyS-foE2_c267kUWkJAsjNN38X9X8CnL-JoH93yuVcSH1ltyLJA/photo/AF1QipM4rUYE22q3fwBEAvDOJ3VzccLZAblIcZw05YJ7?key=SDdUV3hhaWFYTTJhWVNmcExMQThpRUY5NXN1ZFZR)
 
 **Text (Heading 3):**
 
