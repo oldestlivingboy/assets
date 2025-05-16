@@ -50,11 +50,11 @@
 
 **Image (Inline):**
 
-![World Series of Poker](2558510763_e115baa051_o.jpg)
+![Prague Crawl](2025_04_23_Prague-Crawl-069.jpg)
 
 **Image (Inline):**
 
-![Getty Images](582934946.jpg)
+![World Series of Poker](2558510763_e115baa051_o.jpg)
 
 **Text (Heading 3):**
 
@@ -62,13 +62,17 @@ CTIA
 
 **Text (Heading 3):**
 
-World Series of Poker
+[Prague Crawl](https://photos.google.com/share/AF1QipNi5c91mBmY8C7vyS-foE2_c267kUWkJAsjNN38X9X8CnL-JoH93yuVcSH1ltyLJA/photo/AF1QipPhzjsDAQp0Jkh3OUV_IlPqqpCnVGZlCkWGTalg?key=SDdUV3hhaWFYTTJhWVNmcExMQThpRUY5NXN1ZFZR)
 
 **Text (Heading 3):**
 
-[Getty Images](https://www.gettyimages.com/detail/news-photo/casey-oppenheimer-and-brian-kennish-of-disconnect-com-news-photo/582934946)
+World Series of Poker
 
 **Spacer**
+
+**Image (Inline):**
+
+![Getty Images](582934946.jpg)
 
 **Image (Inline):**
 
@@ -78,9 +82,9 @@ World Series of Poker
 
 ![Google](2142614818_fc156e4055_o.jpg)
 
-**Image (Inline):**
+**Text (Heading 3):**
 
-![Rocketship](brian-kennish.jpg)
+[Getty Images](https://www.gettyimages.com/detail/news-photo/casey-oppenheimer-and-brian-kennish-of-disconnect-com-news-photo/582934946)
 
 **Text (Heading 3):**
 
@@ -90,11 +94,11 @@ World Series of Poker
 
 Google
 
-**Text (Heading 3):**
-
-Rocketship
-
 **Spacer**
+
+**Image (Inline):**
+
+![Rocketship](brian-kennish.jpg)
 
 **Image (Inline):**
 
@@ -103,6 +107,10 @@ Rocketship
 **Image (Overlap):**
 
 ![Adweek](fea-hartmann-kennish-01-2015.png)
+
+**Text (Heading 3):**
+
+Rocketship
 
 **Text (Heading 3):**
 
