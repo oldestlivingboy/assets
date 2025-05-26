@@ -19,38 +19,32 @@
       width: 100%;
     }
 
-    .intrinsic {
-      margin-right: auto;
-      margin-left: auto;
-    }
-
-    #block-yui_3_17_2_24_1508202059067_158804 div div div div,
-    #block-yui_3_17_2_3_1508215660352_174267 div div div div,
-    #block-yui_3_17_2_4_1508215660352_19075 div div div div {
-      overflow: initial !important;
-    }
-
     #block-yui_3_17_2_24_1508202059067_158804 {
-      margin-top: 21.981%;
-      margin-bottom: 21.981%;
+      margin-top: 21.95%;
+      margin-bottom: 21.95%;
+    }
+
+    #block-yui_3_17_2_1_1747414117446_182547 {
+      margin-top: 15.4%;
+      margin-bottom: 15.4%;
     }
 
     #block-yui_3_17_2_3_1508215660352_174267 {
-      margin-top: 17.334%;
-      margin-bottom: 17.334%;
+      margin-top: 17.95%;
+      margin-bottom: 17.95%;
     }
 
-    #block-yui_3_17_2_4_1508215660352_16874 .thumb-image {
-      -webkit-transform: scale(.5);
-         -moz-transform: scale(.5);
-          -ms-transform: scale(.5);
-           -o-transform: scale(.5);
-              transform: scale(.5);
+    #block-yui_3_17_2_4_1508215660352_16874 img {
+      object-fit: none !important;
     }
 
     #block-yui_3_17_2_4_1508215660352_19075 {
-      margin-top: 35.689%;
-      margin-bottom: 35.689%;
+      margin-top: 35.75%;
+      margin-bottom: 35.75%;
+    }
+
+    #block-yui_3_17_2_4_1508215660352_19075 .intrinsic {
+      width: 100%;
     }
 
     .Footer {
@@ -75,11 +69,11 @@
         height: 0;
       }
 
-      .image-block, #block-yui_3_17_2_24_1508202059067_158804, #block-yui_3_17_2_3_1508215660352_174267, #block-yui_3_17_2_4_1508215660352_19075 {
+      .image-block, #block-yui_3_17_2_24_1508202059067_158804, #block-yui_3_17_2_1_1747414117446_182547, #block-yui_3_17_2_3_1508215660352_174267, #block-yui_3_17_2_4_1508215660352_19075 {
         margin-top: 39px;
       }
 
-      #block-yui_3_17_2_24_1508202059067_158804, #block-yui_3_17_2_3_1508215660352_174267, #block-yui_3_17_2_4_1508215660352_19075 {
+      #block-yui_3_17_2_24_1508202059067_158804, #block-yui_3_17_2_1_1747414117446_182547, #block-yui_3_17_2_3_1508215660352_174267, #block-yui_3_17_2_4_1508215660352_19075 {
         margin-bottom: 0;
       }
     }
