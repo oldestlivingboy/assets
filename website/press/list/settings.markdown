@@ -140,6 +140,9 @@ Research 2025</a>, Proxyway</p>
 <p><a target="_blank"
 href="https://startupkitchen.community/ai-startups-prague-crawl-attendees-share-their-views/">AI and
 startups: Prague Crawl attendees share their views</a>, Startup Kitchen</p>
+<p><a target="_blank"
+href="https://www.scrapingdog.com/blog/bright-data-alternatives-for-web-scraping/">5 Bright Data
+alternatives for web scraping</a>, Scrapingdog</p>
 
 **Spacer**
 
