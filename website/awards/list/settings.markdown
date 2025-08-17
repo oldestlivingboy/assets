@@ -24,7 +24,7 @@
 
 **Text (Normal):**
 
-[Proxyway Newcomer of the Year](https://www.linkedin.com/posts/proxyway_the-tests-are-done-and-our-annual-report-activity-7335594184998891521-bQzq/)
+[Proxyway Newcomer of the Year](https://proxyway.com/research/proxy-service-awards-2025)
 
 [Webby Award honoree, Experimental and Innovation](https://winners.webbyawards.com/2022/apps-and-software/mobile-ott-app-features/experimental-innovation/214630/massive)
 
