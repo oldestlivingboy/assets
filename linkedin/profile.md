@@ -75,12 +75,12 @@ https://joinmassive.com/
 
 Sources:
 
-1. https://www.forbes.com/sites/kashmirhill/2013/07/24/dont-want-trackers-watching-your-web-and-smartphone-activity-this-start-ups-for-you/#
+1. https://www.forbes.com/sites/kashmirhill/2013/07/24/dont-want-trackers-watching-your-web-and-smartphone-activity-this-start-ups-for-you/
 2. https://www.cbsnews.com/news/the-data-brokers-selling-your-personal-information/
 3. https://itunes.apple.com/app/werd-derp/id1152646495
 4. https://play.google.com/store/apps/details?id=com.rocketshipapps.adblockfast
 5. https://blog.mozilla.org/addons/2014/02/01/february-featured-add-ons/
-6. https://dev.opera.com/articles/extension-developer-interviews-disconnect/
+6. https://web.archive.org/web/20240324061348/https://dev.opera.com/articles/extension-developer-interviews-disconnect/
 7. https://web.archive.org/web/20140924121407/http://www.popsci.com/bown/2013/category/software
 8. https://lifehacker.com/lifehacker-pack-for-chrome-our-list-of-essential-chrom-880863393
 9. https://lifehacker.com/lifehacker-pack-for-firefox-our-list-of-the-essential-896766794
@@ -90,3 +90,19 @@ Sources:
 13. https://youtu.be/oLA-LxV4OT0
 14. https://www.wsj.com/articles/SB10001424052748704281504576329441432995616
 15. http://www.cnn.com/2011/TECH/web/06/21/ad.tracking/index.html
+
+## Featured
+
+* https://www.forbes.com/sites/kashmirhill/2013/07/24/dont-want-trackers-watching-your-web-and-smartphone-activity-this-start-ups-for-you/
+* https://www.cbsnews.com/news/the-data-brokers-selling-your-personal-information/
+* https://blog.mozilla.org/addons/2014/02/01/february-featured-add-ons/
+* https://web.archive.org/web/20240324061348/https://dev.opera.com/articles/extension-developer-interviews-disconnect/
+* https://web.archive.org/web/20140924121407/http://www.popsci.com/bown/2013/category/software
+* https://lifehacker.com/lifehacker-pack-for-chrome-our-list-of-essential-chrom-880863393
+* https://lifehacker.com/lifehacker-pack-for-firefox-our-list-of-the-essential-896766794
+* https://www.youtube.com/watch?v=BK_E3Bjpe0E
+* https://www.youtube.com/watch?v=iVSR6gufMXI
+* https://www.youtube.com/watch?v=oLA-LxV4OT0
+* https://www.wsj.com/articles/SB10001424052748704281504576329441432995616
+* http://www.cnn.com/2011/TECH/web/06/21/ad.tracking/index.html
+* https://oldestlivingboy.com/
