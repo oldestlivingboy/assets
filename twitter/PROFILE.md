@@ -12,8 +12,8 @@
 
 **Bio:**
 
-Prolific generator of random numbers at @joinmassive. 7 apps with 1M+ users, including @adblockfast,
-@callblockapp. ⌨️ Code 🕶️ Privacy 🏴 Decentralization
+Vibe-coding repairman at @joinmassive. 7 apps with 1M+ users, including @adblockfast, @callblockapp.
+⌨️ Code 🕶️ Privacy 🏴 Decentralization
 
 **Location:**
 
