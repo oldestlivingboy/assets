@@ -40,7 +40,9 @@ Proficient in Microsoft Office
 
 **Country/Region:** United States
 
-**Postal code:**
+**Postal code:** 37201
+
+**City:** Nashville, Tennessee
 
 ## Website
 
