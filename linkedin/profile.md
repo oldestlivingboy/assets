@@ -20,7 +20,7 @@
 
 **Headline:**
 
-Proficient in Microsoft Office
+Vibe-coding repairman
 
 ## Current position
 
