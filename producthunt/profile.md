@@ -27,7 +27,7 @@ Forbes, on 60 Minutes, and by Apple, Google, Mozilla, and Opera. I’ve had, amo
 one of the 100 best innovations by Popular Science, one of the 20 best Chrome extensions and 20 best
 Firefox add-ons by Lifehacker, and the best technology at Launch.
 
-## Displayed Product
+## Displayed product
 
 Adblock Fast
 
