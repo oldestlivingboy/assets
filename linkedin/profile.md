@@ -20,7 +20,7 @@
 
 **Headline:**
 
-Vibe-coding repairman
+Vibe-coding repairman at Massive
 
 ## Current position
 
