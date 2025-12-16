@@ -143,6 +143,12 @@ startups: Prague Crawl attendees share their views</a>, Startup Kitchen</p>
 <p><a target="_blank"
 href="https://www.scrapingdog.com/blog/bright-data-alternatives-for-web-scraping/">5 Bright Data
 alternatives for web scraping</a>, Scrapingdog</p>
+<p><a target="_blank"
+href="https://cybermagazine.com/news/what-metas-us-8bn-settlement-says-about-future-of-privacy">Meta’s
+privacy lawsuit: a cybersecurity view</a>, Cyber Magazine</p>
+<p><a target="_blank"
+href="https://www.politico.com/newsletters/digital-future-daily/2025/12/02/how-to-stop-ai-from-eating-the-open-internet-00673326">How
+to stop AI from eating the open internet</a>, Politico</p>
 
 **Spacer**
 
