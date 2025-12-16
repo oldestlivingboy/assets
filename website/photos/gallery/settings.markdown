@@ -54,7 +54,7 @@
 
 **Image (Inline):**
 
-![SF Crawl](1765190463965.jpeg)
+![SF Crawl](1765190463965.jpg)
 
 **Text (Heading 3):**
 
