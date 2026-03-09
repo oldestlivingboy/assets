@@ -149,6 +149,13 @@ privacy lawsuit: a cybersecurity view</a>, Cyber Magazine</p>
 <p><a target="_blank"
 href="https://www.politico.com/newsletters/digital-future-daily/2025/12/02/how-to-stop-ai-from-eating-the-open-internet-00673326">How
 to stop AI from eating the open internet</a>, Politico</p>
+<p><a target="_blank"
+href="https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/">Meta
+and other tech firms put restrictions on use of OpenClaw over security fears</a>, Wired</p>
+<p><a target="_blank"
+href="https://timesofindia.indiatimes.com/technology/tech-news/meet-openclaw-the-ai-agent-whose-founder-sam-altman-has-hired-paying-billions-and-is-feared-globally/articleshow/128813567.cms">Meet
+OpenClaw, the AI agent whose founder Sam Altman has hired paying billions, and is “feared”
+globally</a>, The Times of India</p>
 
 **Spacer**
 
